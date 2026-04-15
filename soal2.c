@@ -1,3 +1,10 @@
+//Modul: Modul 01 (Overview of C Language)
+//Hari dan Tanggal: Rabu 15 - 04 -2026
+//Nama dan NIM: Jeswinder Singh - 13224063
+//Nama File: Praktikum1.c
+//Deskripsi: Mengubah input bilangan integer berdasarkan kelompoknya (genap atau ganjil) untuk 
+//           dimasukkan iterasi hingga diperoleh nilai 1 serta menentukan banyaknya langkah untuk memperoleh 1
+
 #include <stdio.h>
 
 int rekursi(int n) {
